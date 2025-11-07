@@ -1,8 +1,7 @@
 # Overview
 
-The goal of this project was to build a complete Java console application that reads several numbers entered by the user, one by one, and calculates the total, average, and highest number.  
+The goal of this first module project was to build a complete Java console application that would read several numbers entered by the user, one by one, and calculate the total, average, and highest number.
 This program demonstrates key programming concepts such as variables, loops, conditionals, methods, and the use of ArrayList from the Java Collections Framework.
-
 The program writes the results to a file called `results.txt`, meeting the advanced requirement of this module.  
 Through this project, I practiced problem decomposition, function organization, and file handling in Java — skills that are foundational for more complex data and software development tasks.
 
