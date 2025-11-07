@@ -6,8 +6,6 @@ This program demonstrates key programming concepts such as variables, loops, con
 The program writes the results to a file called `results.txt`, meeting the advanced requirement of this module.  
 Through this project, I practiced problem decomposition, function organization, and file handling in Java — skills that are foundational for more complex data and software development tasks.
 
-[**Software Demo Video**](https://youtube.link.goes.here)
-
 # Development Environment
 
 - **IDE:** Visual Studio Code
